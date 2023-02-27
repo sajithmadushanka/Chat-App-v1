@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "63902923674",
+    "project_id": "buddy-chatty",
+    "storage_bucket": "buddy-chatty.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63902923674:android:44b1a0612df435f1f61823",
+        "android_client_info": {
+          "package_name": "com.example.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "63902923674-pdjseuskdlap23grc1t57s0mj8qq5s07.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfWh_KZoIXsRnYMxv7VSMiaLjhK4vK9c4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "63902923674-pdjseuskdlap23grc1t57s0mj8qq5s07.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
